@@ -1,4 +1,4 @@
-# ariana
+# Ariana Asterisk Module
 Asterisk function for persian text speech and use Asr Gooyesh Pardaz cloud account.
 
 # Install

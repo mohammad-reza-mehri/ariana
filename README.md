@@ -20,6 +20,8 @@ VoiceType can be Female1 or Male1 or Male2
 
 Female1 as a default type
 
+Note : For get api key visit http://asr-gooyesh.com/fa/ website.
+
 # Example
 
 For use in asterisk dialplan
